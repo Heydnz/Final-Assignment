@@ -1,2 +1,2 @@
 # Final-Assignment
-Create and share your Jupyter Notebook
+Final Assignment Analyzing Stock/Revenue Data
